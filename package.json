@@ -1,0 +1,18 @@
+{
+  "name": "test-skill",
+  "version": "1.0.0",
+  "description": "test skill for alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swatilk/test-skill.git"
+  },
+  "author": "Swati Kamtar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.0.1"
+  }
+}
